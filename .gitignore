@@ -1,0 +1,4 @@
+#ignorar los ficheros acabados en .c
+*.c
+#ignorar la hoja de estilos
+./css/style.css
